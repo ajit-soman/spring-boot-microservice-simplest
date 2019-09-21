@@ -1,0 +1,7 @@
+employee-eureka-client/target/*
+eureka-server/target/*
+person-eureka-client/target/*
+
+employee-eureka-client/.mvn/*
+eureka-server/.mvn/*
+person-eureka-client/.mvn/*

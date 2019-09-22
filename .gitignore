@@ -1,7 +1,9 @@
 employee-eureka-client/target/*
 eureka-server/target/*
 person-eureka-client/target/*
+zuul-gateway/target/*
 
 employee-eureka-client/.mvn/*
 eureka-server/.mvn/*
 person-eureka-client/.mvn/*
+zuul-gateway/.mvn/*

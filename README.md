@@ -27,7 +27,7 @@ This github repository consist of 4 microservices:
     ```
     spring.application.name=Employee-service
     # Just a number. If you are deploying multiple instance of this service
-    # you can change the number. This will reflect in endpoint reponse
+    # you can change the number. This will reflect in endpoint response
     number=1
     # Tomcat port
     server.port=3333
@@ -49,7 +49,7 @@ This github repository consist of 4 microservices:
     ```
     spring.application.name=Person-service
     # Just a number. If you are deploying multiple instance of this service
-    # you can change the number. This will reflect in endpoint reponse
+    # you can change the number. This will reflect in endpoint response
     number=1
     # Tomcat port
     server.port=4444
